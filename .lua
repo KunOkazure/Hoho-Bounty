@@ -40,7 +40,7 @@ _G["HoHo Hub Auto Bounty V3"] = {
             Z = {Enabled = true, Hold = 0.05, WaitNextSkill = 0.6},
             X = {Enabled = true, Hold = 0.05, WaitNextSkill = 0.6},
             C = {Enabled = true, Hold = 0.05, WaitNextSkill = 0.6},
-            V = {Enabled = true, Hold = 0.05, WaitNextSkill = 0.6},
+            V = {Enabled = false, Hold = 0.05, WaitNextSkill = 0.6},
             F = {Enabled = true, Hold = 0.05, WaitNextSkill = 0.6},
         },
     },
