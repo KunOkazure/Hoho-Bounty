@@ -2,7 +2,7 @@ repeat wait() until game:IsLoaded()
 _G["HoHo Hub Auto Bounty V3"] = {
     ["Avatar"] = "rbxassetid://8598068647",
     ["Farm Method"] = "Normal", -- Normal or Gun
-    ["Select Team"] = "Marine", -- Pirate/Marine
+    ["Select Team"] = "Pirate", -- Pirate/Marine
     ["Discord Webhook"] = "",
     ["Bypass Teleport"] = true,
     ["Max Level Distance"] = 612, -- 612 is took from wiki but u can change it
